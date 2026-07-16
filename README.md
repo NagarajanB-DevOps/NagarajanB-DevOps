@@ -24,7 +24,7 @@
 
 ## 🌐 Connect with Me
 - 📧 Email: nagunagaraj1140@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/nagarajanb](https://linkedin.com/in/nagarajanb)  
+- 🔗 LinkedIn: [linkedin.com/in/nagarajanb](https://www.linkedin.com/in/nagarajan-b-236822248/)  
 - 💻 GitHub: [github.com/NagarajanB-DevOps](https://github.com/NagarajanB-DevOps)
 
 ---
